@@ -5,5 +5,7 @@
 
 | :pushpin: Rest of Design |
 |:--------------------|
-https://github.com/Remonhasan/UI-Ecommarce/blob/main/ui-02.png
-https://github.com/Remonhasan/UI-Ecommarce/blob/main/ui-03.png
+![UI Design of Simple Ecommerce](https://github.com/Remonhasan/UI-Ecommarce/blob/main/ui-02.png)
+![UI Design of Simple Ecommerce](https://github.com/Remonhasan/UI-Ecommarce/blob/main/ui-03.png)
+
+
